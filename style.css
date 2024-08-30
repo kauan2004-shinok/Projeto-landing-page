@@ -4,6 +4,10 @@
     font-family: "inter", ARIAL;
 }
 
+#img-logo{
+    cursor: pointer;
+}
+
 #logo{
     margin-top: 50px;
     margin-left: 50px;
